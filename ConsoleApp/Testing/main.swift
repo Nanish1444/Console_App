@@ -1,4 +1,0 @@
-import Foundation
-
-
-Menu.start()
